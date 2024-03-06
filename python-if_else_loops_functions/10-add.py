@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
 
-def pow(a, b):
+def add(a, b):
     i = a+b
     return i
