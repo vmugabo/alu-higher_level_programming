@@ -2,4 +2,4 @@
 
 def pow(a, b):
 	i = a**b
-	print('{}'.format(i))
+	return i
