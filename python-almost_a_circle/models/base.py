@@ -4,6 +4,8 @@
 
 
 class Base:
+
+
 """Base Class with __nb_objects as private class attribute"""
 
     __nb_objects = 0
